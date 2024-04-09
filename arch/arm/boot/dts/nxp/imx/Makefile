@@ -246,6 +246,7 @@ dtb-$(CONFIG_SOC_IMX6Q) += \
 	imx6q-sabresd-enetirq.dtb \
 	imx6q-sabresd-pcie.dtb \
 	imx6q-sabresd-pcie-ep.dtb \
+	imx6q-topeet.dtb \
 	imx6q-savageboard.dtb \
 	imx6q-sbc6x.dtb \
 	imx6q-skov-revc-lt2.dtb \
